@@ -128,10 +128,14 @@ pip3 install -r requirements.txt
 # Configuration
 
 Edit the file:
+```
 configs/hostapd.conf
+```
 
 Update the network interface:
+```
 interface=your_interface_name
+```
 
 ---
 # Important Notes:
@@ -154,13 +158,12 @@ Common interface names:
 # VM Users (Very Important)
 
 If you are using VMware / VirtualBox, your default WiFi adapter:
-
 ❌ will NOT work with hostapd
 
 To properly run WPA2 fuzzing, you need:
 
-USB WiFi adapter with monitor mode support
-OR run on a real machine (not VM)
+* USB WiFi adapter with monitor mode support
+* OR run on a real machine (not VM)
 
 Without this, WPA2 fuzzing will run only in simulation mode
 
