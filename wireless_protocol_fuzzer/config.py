@@ -1,0 +1,3 @@
+HOSTAPD_CONFIG = "configs/hostapd.conf"
+MQTT_PORT = 1883
+FUZZ_ITERATIONS = 50
