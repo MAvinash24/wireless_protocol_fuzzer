@@ -201,5 +201,3 @@ This project demonstrates how fuzz testing can be applied to wireless protocol s
 ##  Author
 
 Avinash
-
-Give this repo a ⭐ and consider contributing!
