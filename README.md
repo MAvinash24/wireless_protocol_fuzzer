@@ -146,9 +146,9 @@ ip a
 
 Common interface names:
 
-*`wlan0`
-*`wlp2s0`
-*`wlan1 (USB adapter)`
+* wlan0
+* wlp2s0
+* wlan1 (USB adapter)
 
 ---
 # VM Users (Very Important)
