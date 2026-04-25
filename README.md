@@ -157,8 +157,7 @@ Common interface names:
 ---
 # VM Users (Very Important)
 
-If you are using VMware / VirtualBox, your default WiFi adapter:
-❌ will NOT work with hostapd
+If you are using VMware / VirtualBox, your default WiFi adapter will NOT work with hostapd
 
 To properly run WPA2 fuzzing, you need:
 
